@@ -19,7 +19,7 @@ local Window = Rayfield:CreateWindow({
         FolderName = "AhahaBurg_Configs",
         FileName = "MainUI"
     },
-    KeySystem = true,
+    KeySystem = false,
     KeySettings = {
         Title = "AhahaBurg | Key System",
         Subtitle = "Panda Auth Required",
